@@ -1,19 +1,10 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="凛時雨 · Shippuurl" width="100%">
+  <img src="./assets/banner-with-text.png" alt="凛時雨 · Shippuurl" width="100%">
 </p>
-
-<div align="center">
-  <h1>凛時雨</h1>
-  <p><strong>@Shippuurl</strong></p>
-  <p>
-    在代码、笔记与自托管服务之间，慢慢把想法做成可以使用的东西。<br>
-    <em>Building quiet tools at the edge of systems, web, and documentation.</em>
-  </p>
-</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=900&color=2F855A&center=true&vCenter=true&width=700&height=45&lines=%E5%87%9B%E6%99%82%E9%9B%A8%20%7C%20Shippuurl;C%2FC%2B%2B%20%E2%80%A2%20Web%20%E2%80%A2%20Notes;Building%20quiet%20tools%20one%20commit%20at%20a%20time;%E3%81%82%E3%81%AE%E6%97%A5%E3%80%85%E3%81%AF%20%E8%A8%98%E6%86%B6%E3%81%AE%E7%89%87%E9%9A%85" alt="Typing introduction">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=900&color=2F855A&center=true&vCenter=true&width=700&height=45&lines=C%20%2F%20C%2B%2B;Web%20%2F%20Self-hosted;Notes%20%2F%20Documentation;%E5%87%9B%E6%99%82%E9%9B%A8%20%7C%20Shippuurl" alt="Typing introduction">
   </a>
 </p>
 
