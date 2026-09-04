@@ -1,15 +1,3 @@
-<!--
-  Text banner source: assets/banner.txt
-  Edit that file to customize the art, then copy the block below into this README.
--->
-
-<pre align="center">
-  ▌ ▌ ▘          ▜ 
-▛▘▛▌▛▌▌▛▌▛▌▌▌▌▌▛▘▐ 
-▄▌▌▌▌▌▌▙▌▙▌▙▌▙▌▌ ▐▖
-       ▌ ▌                         
-</pre>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=900&color=52525B&center=true&vCenter=true&width=700&height=45&lines=C%20%2F%20C%2B%2B;Web%20%2F%20Self-hosted;Notes%20%2F%20Documentation;%E5%87%9B%E6%99%82%E9%9B%A8%20%7C%20Shippuurl" alt="Typing introduction">
