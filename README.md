@@ -1,11 +1,18 @@
 <!--
-  Vercel-hosted statistic cards were replaced with Shields badges and ghchart
-  so the profile remains visible when Vercel image endpoints are unavailable.
+  Text banner source: assets/banner.txt
+  Edit that file to customize the art, then copy the block below into this README.
 -->
 
-<p align="center">
-  <img src="./assets/banner.svg" alt="凛時雨 · Shippuurl" width="100%">
-</p>
+<pre align="center">
+  █████████  █████   █████ █████ ███████████  ███████████  █████  █████ █████  █████ ███████████   █████
+ ███░░░░░███░░███   ░░███ ░░███ ░░███░░░░░███░░███░░░░░███░░███  ░░███ ░░███  ░░███ ░░███░░░░░███ ░░███
+░███    ░░░  ░███    ░███  ░███  ░███    ░███ ░███    ░███ ░███   ░███  ░███   ░███  ░███    ░███  ░███
+░░█████████  ░███████████  ░███  ░██████████  ░██████████  ░███   ░███  ░███   ░███  ░██████████   ░███
+ ░░░░░░░░███ ░███░░░░░███  ░███  ░███░░░░░░   ░███░░░░░░   ░███   ░███  ░███   ░███  ░███░░░░░███  ░███
+ ███    ░███ ░███    ░███  ░███  ░███         ░███         ░███   ░███  ░███   ░███  ░███    ░███  ░███      █
+░░█████████  █████   █████ █████ █████        █████        ░░████████   ░░████████   █████   █████ ███████████
+ ░░░░░░░░░  ░░░░░   ░░░░░ ░░░░░ ░░░░░        ░░░░░          ░░░░░░░░     ░░░░░░░░   ░░░░░   ░░░░░ ░░░░░░░░░░░
+</pre>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -19,22 +26,22 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Shippuurl?tab=followers">
-        <img src="https://img.shields.io/github/followers/Shippuurl?style=for-the-badge&label=followers&labelColor=18181B&color=71717A" alt="Followers">
+        <img src="https://img.shields.io/github/followers/Shippuurl?style=for-the-badge&label=followers&labelColor=1E3A8A&color=2563EB" alt="Followers">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Shippuurl?tab=repositories">
-        <img src="https://img.shields.io/badge/public%20repos-5-71717A?style=for-the-badge&labelColor=18181B" alt="Public repositories">
+        <img src="https://img.shields.io/github/repos/Shippuurl?style=for-the-badge&label=public%20repos&labelColor=4C1D95&color=7C3AED" alt="Public repositories">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Shippuurl/Shippuurl">
-        <img src="https://img.shields.io/github/stars/Shippuurl?style=for-the-badge&label=total%20stars&labelColor=18181B&color=A1A1AA" alt="Total stars">
+        <img src="https://img.shields.io/github/stars/Shippuurl?style=for-the-badge&label=total%20stars&labelColor=92400E&color=F59E0B" alt="Total stars">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Shippuurl/Shippuurl/commits/main">
-        <img src="https://img.shields.io/github/commit-activity/y/Shippuurl/Shippuurl?style=for-the-badge&label=commits%2Fyear&labelColor=18181B&color=52525B" alt="Commits per year">
+        <img src="https://img.shields.io/github/commit-activity/y/Shippuurl/Shippuurl?style=for-the-badge&label=commits%2Fyear&labelColor=065F46&color=10B981" alt="Commits per year">
       </a>
     </td>
   </tr>
@@ -44,6 +51,6 @@
 
 <p align="center">
   <a href="https://github.com/Shippuurl">
-    <img src="https://ghchart.rshah.org/555555/Shippuurl" alt="Shippuurl GitHub contribution activity" width="96%">
+    <img src="https://ghchart.rshah.org/2F80ED/Shippuurl" alt="Shippuurl GitHub contribution activity" width="96%">
   </a>
 </p>
