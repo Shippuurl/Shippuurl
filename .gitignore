@@ -1,0 +1,10 @@
+# Local runner metadata; keep it out of the profile repository.
+.veicrun.json
+
+# Local secrets and editor/OS noise.
+.env
+.env.*
+!.env.example
+.DS_Store
+.idea/
+.vscode/
