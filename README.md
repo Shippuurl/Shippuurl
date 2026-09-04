@@ -31,7 +31,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Shippuurl?tab=repositories">
-        <img src="https://img.shields.io/github/repos/Shippuurl?style=for-the-badge&label=public%20repos&labelColor=4C1D95&color=7C3AED" alt="Public repositories">
+        <img src="https://img.shields.io/badge/public%20repos-6-7C3AED?style=for-the-badge&labelColor=4C1D95" alt="Public repositories">
       </a>
     </td>
     <td align="center">
